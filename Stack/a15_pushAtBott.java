@@ -1,4 +1,5 @@
 // Push at the bottom of the stack.
+// using recursion. TC : O(n)
 
 import java.util.*;
 
